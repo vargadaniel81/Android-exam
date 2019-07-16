@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="hu.technocool.todolist.MainActivity">
+
+    <item
+        android:id="@+id/mi_newItem"
+        android:orderInCategory="200"
+        android:title="@string/uj_feladat"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mi_removeAll"
+        android:orderInCategory="300"
+        android:title="@string/osszes_torlese"
+        app:showAsAction="never" />
+
+
+
+</menu>

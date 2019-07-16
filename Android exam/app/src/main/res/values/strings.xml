@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Elvégzendő feladatok</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="uj_feladat">Új feladat felvétele</string>
+    <string name="osszes_torlese">Összes feladat törlése</string>
+    <string name="feladat_szerk">Feladat szerkesztése</string>
+    <string name="torles">Feladat elvégezve - TÖRLÉS</string>
+    <string name="feladat">Feladat:</string>
+    <string name="fontossag">Fontosság:</string>
+    <string name="datum">Dátum:</string>
+    <string name="naptar">a naptárhoz duplán kattints</string>
+    <string name="megsem">Mégsem</string>
+    <string name="mentes">Mentés</string>
+</resources>

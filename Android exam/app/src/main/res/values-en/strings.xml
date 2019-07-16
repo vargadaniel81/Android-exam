@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="action_settings">Settings</string>
+    <string name="uj_feladat">Add new task</string>
+    <string name="osszes_torlese">Delete all task</string>
+    <string name="feladat_szerk">Edit task</string>
+    <string name="torles">Task completed - DELETE</string>
+    <string name="feladat">Task:</string>
+    <string name="fontossag">Importance:</string>
+    <string name="datum">Date:</string>
+    <string name="naptar">double-click on the calendar</string>
+    <string name="megsem">No</string>
+    <string name="mentes">Save</string>
+</resources>

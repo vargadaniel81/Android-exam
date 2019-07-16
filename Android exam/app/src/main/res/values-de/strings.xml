@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auszuführende Aufgaben</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="uj_feladat">Aufgabe hinzufügen</string>
+    <string name="osszes_torlese">Lösche alle Aufgaben</string>
+    <string name="feladat_szerk">Aufgabe bearbeiten</string>
+    <string name="torles">Aufgabe erledigt - LÖSCHEN</string>
+    <string name="feladat">Aufgabe:</string>
+    <string name="fontossag">Bedeutung:</string>
+    <string name="datum">Datum:</string>
+    <string name="naptar">Doppelklicken Sie auf den Kalender</string>
+    <string name="megsem">Nein</string>
+    <string name="mentes">Speichern</string>
+
+</resources>
